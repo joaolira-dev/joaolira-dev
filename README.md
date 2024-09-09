@@ -1,7 +1,11 @@
-<img src="https://github.com/user-attachments/assets/bf1fb2fc-2d93-452c-b843-4b2e5a277170" width=100% bottom=50px />
+<img src="https://github.com/user-attachments/assets/e0f16873-c180-4253-8e9f-7fa932f3c3df" width=100% bottom=50px />
+<br>
+<br>
+<br>
+<br>
 
-<h1 align="center">Olá , me chamo João</h1>
-<h3 align="center">Atualmente estou atuando como desenvolvedor front-end</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27F704&width=435&lines=Ol%C3%A1+%2C+seja+bem-vindo+!)](https://git.io/typing-svg)
+
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
