@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27F704&width=435&lines=Ol%C3%A1+%2C+seja+bem-vindo+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=1C6280&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
 
 <h3 align="left">Minhas redes sociais:</h3>
