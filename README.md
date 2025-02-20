@@ -22,5 +22,5 @@ Computer Science student & passionate developer. Experienced in JavaScript, Type
 
 
 
-
-<p align="center"><img align="center" src=https://profile-counter.glitch.me/joaolira-dev/count.svg></p>
+<h3>Visitors:</h3>
+<p align="left"><img align="left" src=https://profile-counter.glitch.me/joaolira-dev/count.svg></p>
