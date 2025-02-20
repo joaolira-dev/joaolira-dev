@@ -1,4 +1,4 @@
-<img src=https://github.com/joaolira-dev/joaolira-dev/issues/1#issue-2866274091>
+<img src=https://github.com/joaolira-dev/joaolira-dev/issues/1#issue-2866274091><img/>
 <br>
 <br>
 <br>
