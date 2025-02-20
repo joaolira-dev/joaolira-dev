@@ -1,11 +1,10 @@
-[<img src="https://github.com/user-attachments/assets/e0f16873-c180-4253-8e9f-7fa932f3c3df" width=100% bottom=50px />](https://github.com/joaolira-dev/joaolira-dev/issues/1#issue-2866274091)
+<img src=https://github.com/joaolira-dev/joaolira-dev/issues/1#issue-2866274091>
 <br>
 <br>
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+cool+projects!;Open+to+collaborations!)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=Software+Engineer;Computer+Science+Student;TypeScript+%7C+NodeJS+%7C+JavaScript+%7C+ReactJS)](https://git.io/typing-svg)
 
 
 <h3 align="left">Minhas redes sociais:</h3>
