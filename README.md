@@ -3,8 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolira-dev&layout=compact&theme=radical" width="300">
 </p>
 <br>
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
 
