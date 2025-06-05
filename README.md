@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f7b9b21e-0b9b-4a21-8b25-69e8601fa524)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&theme=radical)
 <br>
 <br>
 <br>
