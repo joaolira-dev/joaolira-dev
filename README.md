@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&theme=radical" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&theme=radical" width="410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolira-dev&layout=compact&theme=radical" width="350">
 </p>
 <br>
