@@ -1,5 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&theme=radical)
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolira-dev&layout=compact&theme=radical)
 <br>
 <br>
 <br>
