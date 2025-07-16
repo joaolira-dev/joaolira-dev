@@ -42,5 +42,11 @@
 ### 👁️‍🗨️ Visitors
 
 <p align="center">
+  <img src="https://count.getloli.com/get/@joaolira-dev?theme=moebooru" alt="Profile Views" />
+</p>
+
+
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/joaolira-dev/count.svg" />
 </p>
