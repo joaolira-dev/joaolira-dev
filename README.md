@@ -31,7 +31,7 @@
 
 ### 🔗 Connect with me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-lira-b396722ab/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -39,9 +39,8 @@
 
 ---
 
-### 👁️‍🗨️ Visitors
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joaolira-dev&count_bg=%237F00FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 <p>
