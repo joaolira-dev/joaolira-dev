@@ -41,13 +41,9 @@
 
 ### 👁️‍🗨️ Visitors
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joaolira-dev&count_bg=%237F00FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <p>
-  <img src="https://count.getloli.com/get/@joaolira-dev?theme=rule34" alt="Profile Views" />
-</p>
-
-
-
-
-<p align="center">
   <img src="https://profile-counter.glitch.me/joaolira-dev/count.svg" />
 </p>
