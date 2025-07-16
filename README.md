@@ -13,8 +13,8 @@
 </p>
 
 <h3>About me</h3>
-<p>📌 João – Full Stack Developer
-Computer Science student & passionate developer. Experienced in JavaScript, TypeScript, ReactJS, NodeJS, and Java. I enjoy building web applications, APIs, and system integrations. Always learning and improving my skills. 🚀</p>
+<p>📌 João – Full Stack Developer<br>
+Computer Science student & passionate developer.<br> Experienced in JavaScript, TypeScript, ReactJS, NodeJS, and Java. I enjoy building web applications, APIs, and system integrations. Always learning and improving my skills. 🚀</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
