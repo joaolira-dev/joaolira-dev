@@ -27,7 +27,7 @@
 <br>
 
 <div align="center" width="100%">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=D813D9&width=435&lines=I'm+fullstack+developer;Computer+science+student)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=D813D9&width=435&lines=I'm+fullstack+developer;Computer+science+student" alt="Typing SVG" />
 </div>
 
 <br>
