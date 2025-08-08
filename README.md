@@ -1,5 +1,5 @@
 <!-- Título animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=26&pause=1000&color=D406C7&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
 
 <!-- Estatísticas do GitHub -->
 <p>
@@ -43,6 +43,4 @@
 
 
 
-<p>
-  <img src="https://profile-counter.glitch.me/joaolira-dev/count.svg" />
-</p>
+
