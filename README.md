@@ -72,22 +72,21 @@
   />
   </div>
 
-<div align="center" style="display: inline_block"><br>
-    <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactJS.svg" alt="ReactJS" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg" alt="NodeJS" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" alt="Java" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SpringBoot.svg" alt="Spring Boot" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Boot" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" alt="MySQL" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" />
-  
-  
 </div>
+
 
 <br>
 
