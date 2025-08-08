@@ -35,11 +35,10 @@
 
 <details align="center">  
   <summary>
-      <samp>
-        <b width=40>More Info</b>
+      <samp style="font-size: 1.3rem;">
+        <b>More Info</b>
       </samp>
   </summary>
-  
   <br>
 
 <div align="center">
@@ -104,9 +103,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:joaoliradev@hotmail.com.com)
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/joaolira-dev/)
+ [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:joaolira-dev@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/joaolira-dev/)
   
 </div>
 
