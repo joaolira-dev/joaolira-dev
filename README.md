@@ -36,7 +36,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b width=40>More Info</b>
       </samp>
   </summary>
   
