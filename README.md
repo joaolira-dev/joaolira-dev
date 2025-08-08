@@ -159,9 +159,12 @@
     <br />
     <br />
 
-    [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:joaolira-dev@hotmail.com)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/joaolira-dev/)
+    
   </div>
+  
+  [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:joaolira-dev@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/joaolira-dev/)
+  
 </details>
 
 <br />
@@ -173,8 +176,8 @@
   align="left"
   style="max-width: 600px; font-size: 1.1rem; color: #9745f5; margin: 0 auto; line-height: 1.5;"
 >
-  Olá! Sou um desenvolvedor fullstack apaixonado por tecnologia e aprendizado contínuo.<br />
-  Atualmente, estudo Ciência da Computação e busco criar soluções inovadoras usando as mais recentes tecnologias web.<br />
+  Olá! Sou um desenvolvedor fullstack. <br />
+  Atualmente, estudo Ciência da Computação e busco criar soluções eficazes.<br />
   Tenho experiência com JavaScript, React, Node.js, Java, Spring Boot e bancos de dados relacionais e não relacionais.<br />
   Sempre em busca de novos desafios para crescer profissionalmente e contribuir com projetos de impacto.
 </div>
