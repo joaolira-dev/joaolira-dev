@@ -75,7 +75,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" />
-  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="React" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Boot" />
@@ -86,6 +86,7 @@
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" />
   <img width="48" height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" />
 </div>
+
 
 
 <br>
