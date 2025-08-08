@@ -104,7 +104,7 @@
   <br>
 
  [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:joaolira-dev@hotmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/joaolira-dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaolira-dev/)
   
 </div>
 
