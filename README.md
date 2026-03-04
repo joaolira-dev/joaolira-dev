@@ -29,26 +29,6 @@
   <br />
 
   <div align="center">
-    <img
-      height="165"
-      align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=joaolira-dev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-    />
-    <img
-      height="165"
-      align="center"
-      alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolira-dev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-    />
-    <br />
-    <br />
-    <img
-      align="center"
-      alt="Profile Details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolira-dev&theme=midnight_purple"
-    />
-    <br />
     <br />
     <img
       height="154"
