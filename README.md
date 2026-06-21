@@ -26,9 +26,8 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h2>👾 <code>sobre_mim</code></h2>
       <p>
-        Sou João, desenvolvedor full stack e estudante de Ciência da Computação.
+        Desenvolvedor full stack e estudante de Ciência da Computação.
         Gosto de transformar problemas reais em experiências simples, rápidas e bem construídas.
       </p>
       <ul>
@@ -44,15 +43,12 @@
   </tr>
 </table>
 
-<h2 align="center">⚡ <code>stack_em_evolucao</code></h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,html,css,mongodb,mysql,postgres,docker,git&theme=dark&perline=13" alt="Tecnologias" />
 </div>
 
 <br />
 
-<h2 align="center">📊 <code>telemetria_do_github</code></h2>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" alt="Estatísticas do GitHub" />
