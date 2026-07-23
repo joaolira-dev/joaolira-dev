@@ -27,8 +27,9 @@
   <tr>
     <td valign="top" width="60%">
       <p>
-        Desenvolvedor full stack e estudante de Ciência da Computação.
-        Gosto de transformar problemas reais em experiências simples, rápidas e bem construídas.
+        Desenvolvedor Full Stack e estudante de Ciência da Computação, com experiência em aplicações web, APIs, integrações e sistemas financeiros. No meu dia a dia, atuo no desenvolvimento e na manutenção de soluções voltadas a operações de crédito, trabalhando com back-end, front-end e integrações entre plataformas internas e serviços externos.
+
+Tenho experiência em fluxos como simulação de crédito, geração de contratos, análise de propostas, gestão de pagamentos, boletos, renegociações, estornos, ajustes operacionais e integrações financeiras. Busco entender o problema antes de implementar, conectando visão técnica e regra de negócio para entregar soluções escaláveis, eficientes, bem estruturadas e alinhadas à operação da empresa.
       </p>
     </td>
     <td valign="middle" align="center" width="40%">
