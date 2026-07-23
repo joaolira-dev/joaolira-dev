@@ -30,12 +30,6 @@
         Desenvolvedor full stack e estudante de Ciência da Computação.
         Gosto de transformar problemas reais em experiências simples, rápidas e bem construídas.
       </p>
-      <ul>
-        <li>🎓 Focado em evoluir todos os dias através de projetos práticos.</li>
-        <li>⚙️ Construindo aplicações com JavaScript, React, Node.js, Java e Spring Boot.</li>
-        <li>🧠 Explorando boas práticas, arquitetura e produtos que geram impacto.</li>
-        <li>📍 João Pessoa, PB — Brasil.</li>
-      </ul>
     </td>
     <td valign="middle" align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Pessoa programando" />
