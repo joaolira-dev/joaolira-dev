@@ -13,8 +13,8 @@
 
 ###
 
-<div data-importer="techs" align="center">
-  <p><strong>Front-end</strong></p>
+<div data-importer="techs" align="left">
+  <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
@@ -27,19 +27,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angular logo" />
 
-  <p><strong>Back-end</strong></p>
+  <p><strong>Backend</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
 
-  <p><strong>Banco de dados</strong></p>
+  <p><strong>Data</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
 
-  <p><strong>Nuvem</strong></p>
+  <p><strong>Cloud</strong></p>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
 </div>
 
@@ -51,8 +51,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolira-dev&theme=dracula" alt="Resumo de contribuições no GitHub" />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolira-dev/joaolira-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolira-dev/joaolira-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaolira-dev/joaolira-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
