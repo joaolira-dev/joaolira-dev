@@ -2,7 +2,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="http://instagram.com/joaoliradev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -44,7 +44,7 @@
 </div>
 
 ###
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=joaolira-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=joaolira-dev&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats"  />
 </div>
